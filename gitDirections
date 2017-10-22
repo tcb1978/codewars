@@ -1,0 +1,23 @@
+```cd into the directory you want to work with
+git init
+git add -A (adds all the files)
+git commit -m "some commit message"
+leave your commmand line open you are going to need it in a sec
+
+
+open up github
+create new repository
+the next screen will give you the instructions to push up to github. Copy and paste into your command line. Bam.
+
+
+--------------------------
+git stage -A 
+git commit -m "deleted index.html"
+
+git push
+
+------------------
+
+git add  
+git commit -m "adding my new file"
+git push```
